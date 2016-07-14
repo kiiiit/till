@@ -1,9 +1,9 @@
 My Till Rule
 
-[Naming Rule]
+[Naming Rule]  
 x_mm/dd/yy_filename.md
 
-[Initial letter]
+[Initial letter]  
 マーケティング = mk  
 Java Script = js  
 PHP = ph  
